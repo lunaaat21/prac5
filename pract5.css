@@ -1,0 +1,51 @@
+/* Este es un comentario en CSS */
+/*LUNA PEREZ MARIANA*/
+/*DAW  FECHA:20/03/24 */
+/* A continuacion le aplicamos CSS a la actividad_(ACT6.HTML).Desde un archivo CSS.(ACT6.CSS*)/
+
+h1{
+color:black;
+font-family:castellar;
+text-align:center;
+}
+.creadores{text-align=left; color:#A59297;}
+h3{
+font-family:book antiqua;
+
+color:blue;
+text-align:left;
+}
+.creador{color:#A59297;}
+
+.lista{color:black;}
+image{
+width:12%;
+height:12%;
+align:left;
+}
+.derecha{align:right}
+}
+h2{
+color:red;
+text-align:left;
+}
+ul{
+font-family:book antiqua;
+color:darkmagenta;
+}
+p{
+text-align:right;
+color:blue;
+}
+h4{
+color:black;
+font-family:castellar;
+}
+
+h1{
+color:#9A03FE;
+font-family:strong;
+text-align:center;
+}
+</body>
+</html>
